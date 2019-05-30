@@ -2,7 +2,7 @@
   "name": "zapys-online",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pvolodymyr.github.io/zapys-online.github.io/",
+  "homepage": "https://pvolodymyr.github.io/zapys-online/",
   "dependencies": {
     "classnames": "^2.2.6",
     "moment": "^2.24.0",
