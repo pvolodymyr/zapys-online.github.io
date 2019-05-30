@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zapys-online/static/css/main.e754467c.chunk.css",
+    "main.js": "/zapys-online/static/js/main.b574bb1e.chunk.js",
+    "main.js.map": "/zapys-online/static/js/main.b574bb1e.chunk.js.map",
+    "runtime~main.js": "/zapys-online/static/js/runtime~main.bca740b8.js",
+    "runtime~main.js.map": "/zapys-online/static/js/runtime~main.bca740b8.js.map",
+    "static/css/2.306bd6cf.chunk.css": "/zapys-online/static/css/2.306bd6cf.chunk.css",
+    "static/js/2.e09a4215.chunk.js": "/zapys-online/static/js/2.e09a4215.chunk.js",
+    "static/js/2.e09a4215.chunk.js.map": "/zapys-online/static/js/2.e09a4215.chunk.js.map",
+    "index.html": "/zapys-online/index.html",
+    "precache-manifest.c57da532857003bbd1b1de129806bfbb.js": "/zapys-online/precache-manifest.c57da532857003bbd1b1de129806bfbb.js",
+    "service-worker.js": "/zapys-online/service-worker.js",
+    "static/css/2.306bd6cf.chunk.css.map": "/zapys-online/static/css/2.306bd6cf.chunk.css.map",
+    "static/css/main.e754467c.chunk.css.map": "/zapys-online/static/css/main.e754467c.chunk.css.map",
+    "static/media/cancel-music.svg": "/zapys-online/static/media/cancel-music.bb93e3a2.svg",
+    "static/media/phone.svg": "/zapys-online/static/media/phone.eea55001.svg",
+    "static/media/user.svg": "/zapys-online/static/media/user.5e946c20.svg"
+  }
+}
