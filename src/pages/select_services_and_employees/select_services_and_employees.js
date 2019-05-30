@@ -10,6 +10,8 @@ const baseClassName = 'services-and-employees';
 
 const ServicesAndEmployees = ({ appInfo, showActionPanel, state }) => {
   console.log(state);
+  console.log('process.env.PUBLIC_URL', process.env.PUBLIC_URL)
+  console.log('process.env', process.env)
 
   return (
     <div className={styles[baseClassName]}>
