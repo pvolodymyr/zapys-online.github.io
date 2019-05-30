@@ -10,13 +10,13 @@ import './assets/global.scss';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
       <main>
-        <Route path={`${process.env.PUBLIC_URL}/`} exact component={SelectServicesAndEmployee} />
-        <Route path={`${process.env.PUBLIC_URL}/select-date-time`} exact component={SelectDateAndTime} />
-        <Route path={`${process.env.PUBLIC_URL}/confirmation`} exact component={Confirmation} />
-        <Route path={`${process.env.PUBLIC_URL}/congratulation`} exact component={Congratulation} />
+        <Route path="/" exact component={SelectServicesAndEmployee} />
+        <Route path="/select-date-time" exact component={SelectDateAndTime} />
+        <Route path="/confirmation" exact component={Confirmation} />
+        <Route path="/congratulation" exact component={Congratulation} />
       </main>
     </Router>
   );
