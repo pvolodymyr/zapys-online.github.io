@@ -1,0 +1,16 @@
+@import '../../assets/variables';
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  padding: 8px 22px;
+  border-radius: 2px;
+  background-color: $button-bg-color;
+  color: $button-text-color;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}

@@ -1,0 +1,14 @@
+@import '../../assets/variables';
+
+.action-panel {
+  position: fixed;
+  z-index: 2;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: flex-end;
+  background-color: $action-panel-bg-color;
+  box-shadow: $action-panel-shadow;
+}

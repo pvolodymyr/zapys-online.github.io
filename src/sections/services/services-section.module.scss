@@ -1,0 +1,16 @@
+@import '../../assets/variables';
+
+.services-section {
+
+  &__headline {
+    font-size: 14px;
+    margin: 20px 20px 14px 20px;
+    font-weight: normal;
+  }
+
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 14px 20px;
+  }
+}
