@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b453f005ad51772daf8eb928121f80f7",
+    "revision": "c3cf1a60cd2bc5c037ff7df2245afc77",
     "url": "/zapys-online/index.html"
   },
   {
