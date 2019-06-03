@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/zapys-online/static/css/main.e754467c.chunk.css",
-    "main.js": "/zapys-online/static/js/main.0a1b4b69.chunk.js",
-    "main.js.map": "/zapys-online/static/js/main.0a1b4b69.chunk.js.map",
-    "runtime~main.js": "/zapys-online/static/js/runtime~main.bca740b8.js",
-    "runtime~main.js.map": "/zapys-online/static/js/runtime~main.bca740b8.js.map",
-    "static/css/2.306bd6cf.chunk.css": "/zapys-online/static/css/2.306bd6cf.chunk.css",
-    "static/js/2.e09a4215.chunk.js": "/zapys-online/static/js/2.e09a4215.chunk.js",
-    "static/js/2.e09a4215.chunk.js.map": "/zapys-online/static/js/2.e09a4215.chunk.js.map",
-    "index.html": "/zapys-online/index.html",
-    "precache-manifest.ed3dab7445f9df3467c27749d9260ff2.js": "/zapys-online/precache-manifest.ed3dab7445f9df3467c27749d9260ff2.js",
-    "service-worker.js": "/zapys-online/service-worker.js",
-    "static/css/2.306bd6cf.chunk.css.map": "/zapys-online/static/css/2.306bd6cf.chunk.css.map",
-    "static/css/main.e754467c.chunk.css.map": "/zapys-online/static/css/main.e754467c.chunk.css.map",
-    "static/media/cancel-music.svg": "/zapys-online/static/media/cancel-music.bb93e3a2.svg",
-    "static/media/phone.svg": "/zapys-online/static/media/phone.eea55001.svg",
-    "static/media/user.svg": "/zapys-online/static/media/user.5e946c20.svg"
+    "main.css": "/static/css/main.e754467c.chunk.css",
+    "main.js": "/static/js/main.89eb7ac5.chunk.js",
+    "main.js.map": "/static/js/main.89eb7ac5.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.306bd6cf.chunk.css": "/static/css/2.306bd6cf.chunk.css",
+    "static/js/2.7a39651e.chunk.js": "/static/js/2.7a39651e.chunk.js",
+    "static/js/2.7a39651e.chunk.js.map": "/static/js/2.7a39651e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.89716b6590a6b6b60a36af2a18a2e253.js": "/precache-manifest.89716b6590a6b6b60a36af2a18a2e253.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.306bd6cf.chunk.css.map": "/static/css/2.306bd6cf.chunk.css.map",
+    "static/css/main.e754467c.chunk.css.map": "/static/css/main.e754467c.chunk.css.map",
+    "static/media/cancel-music.svg": "/static/media/cancel-music.bb93e3a2.svg",
+    "static/media/phone.svg": "/static/media/phone.eea55001.svg",
+    "static/media/user.svg": "/static/media/user.5e946c20.svg"
   }
 }
