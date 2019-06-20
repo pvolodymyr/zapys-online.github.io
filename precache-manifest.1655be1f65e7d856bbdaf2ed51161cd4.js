@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4096241303724c293cb3653d78a1041c",
+    "revision": "0712fac634b66371a5520a842023fc6b",
     "url": "/zapys-online/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zapys-online/static/css/2.306bd6cf.chunk.css"
   },
   {
-    "revision": "3b8dff97b532a710fbbd",
-    "url": "/zapys-online/static/css/main.67c16281.chunk.css"
+    "revision": "309af41895ac51222738",
+    "url": "/zapys-online/static/css/main.55127703.chunk.css"
   },
   {
     "revision": "78885e93fe457cd07283",
     "url": "/zapys-online/static/js/2.4d43aded.chunk.js"
   },
   {
-    "revision": "3b8dff97b532a710fbbd",
-    "url": "/zapys-online/static/js/main.9213c2d3.chunk.js"
+    "revision": "309af41895ac51222738",
+    "url": "/zapys-online/static/js/main.ec663cd4.chunk.js"
   },
   {
     "revision": "d14f804f7d6d99d329a2",
