@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/zapys-online/precache-manifest.d497c8206a2da238b75b8777c12a02db.js"
+  "/zapys-online/precache-manifest.4ae4ad0bba7dd578ea764f3e1cdefc83.js"
 );
 
 self.addEventListener('message', (event) => {
