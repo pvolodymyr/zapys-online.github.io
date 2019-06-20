@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68a09d7271b40d246440eb8c15016a62",
+    "revision": "4096241303724c293cb3653d78a1041c",
     "url": "/zapys-online/index.html"
   },
   {
-    "revision": "b9cc549e30ca5fb81368",
+    "revision": "78885e93fe457cd07283",
     "url": "/zapys-online/static/css/2.306bd6cf.chunk.css"
   },
   {
-    "revision": "1271520e66aa34c2a358",
-    "url": "/zapys-online/static/css/main.ba47d586.chunk.css"
+    "revision": "3b8dff97b532a710fbbd",
+    "url": "/zapys-online/static/css/main.67c16281.chunk.css"
   },
   {
-    "revision": "b9cc549e30ca5fb81368",
-    "url": "/zapys-online/static/js/2.dee3acf5.chunk.js"
+    "revision": "78885e93fe457cd07283",
+    "url": "/zapys-online/static/js/2.4d43aded.chunk.js"
   },
   {
-    "revision": "1271520e66aa34c2a358",
-    "url": "/zapys-online/static/js/main.6bb1f391.chunk.js"
+    "revision": "3b8dff97b532a710fbbd",
+    "url": "/zapys-online/static/js/main.9213c2d3.chunk.js"
   },
   {
     "revision": "d14f804f7d6d99d329a2",
